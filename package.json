@@ -1,0 +1,39 @@
+{
+  "name": "driving-test-finder",
+  "description": "Practical driving test cancellation finding CLI bot",
+  "version": "1.0.0",
+  "author": "Jamie Weavis <jamie.weavis@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/jamieweavis/driving-test-finder/issues"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "dayjs": "^1.5.23",
+    "node-notifier": "^5.2.1",
+    "puppeteer": "^1.4.0",
+    "sendmail": "^1.4.1"
+  },
+  "homepage": "https://github.com/jamieweavis/driving-test-finder#readme",
+  "keywords": [
+    "booking",
+    "bot",
+    "cancellation",
+    "cli",
+    "driving",
+    "driving test",
+    "finder",
+    "practical",
+    "practical driving test",
+    "puppeteer",
+    "test"
+  ],
+  "license": "MIT",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamieweavis/driving-test-finder.git"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
