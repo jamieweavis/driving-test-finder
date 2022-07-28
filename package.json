@@ -2,7 +2,7 @@
   "name": "driving-test-finder",
   "description": "Practical driving test cancellation finding CLI bot",
   "version": "1.0.0",
-  "author": "Jamie Weavis <jamie.weavis@gmail.com>",
+  "author": "Jamie Weavis",
   "bugs": {
     "url": "https://github.com/jamieweavis/driving-test-finder/issues"
   },
